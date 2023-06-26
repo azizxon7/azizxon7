@@ -1,4 +1,4 @@
-### HEllo everyone 👋
+### Hello everyone 👋
 I'm from Uzbekistan  and I'm a programmer in Python programmming language 👨‍💻
 <!--
 **azizxon7/azizxon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
